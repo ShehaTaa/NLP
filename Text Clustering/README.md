@@ -1,4 +1,4 @@
-# # Text Clustering
+# Text Clustering
 
    - Text Clustering is one of the major tasks of AI in general, NLP in particular. 
    
